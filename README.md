@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aleksey
+- 👀 I’m interested in python development
+- 🌱 I'm a student at the moment
+- 💞️ But we are not taught anything, no wonder ... To become a programmer, you have to learn yourself, you have to wish for it
